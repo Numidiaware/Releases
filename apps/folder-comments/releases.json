@@ -1,0 +1,10 @@
+{
+  "app_id": "folder-comments",
+  "app_name": "Folder Comments",
+  "description": "Add and manage comments on Windows folders.",
+  "platform": "windows",
+  "arch": "x64",
+  "icon": "https://raw.githubusercontent.com/Numidiaware/releases/main/apps/folder-comments/icon.png",
+  "latest_version": "",
+  "releases": []
+}

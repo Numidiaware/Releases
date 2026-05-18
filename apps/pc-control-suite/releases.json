@@ -1,0 +1,10 @@
+{
+  "app_id": "pc-control-suite",
+  "app_name": "PC Control Suite",
+  "description": "Full control over your Windows PC from one place.",
+  "platform": "windows",
+  "arch": "x64",
+  "icon": "https://raw.githubusercontent.com/Numidiaware/releases/main/apps/pc-control-suite/icon.png",
+  "latest_version": "",
+  "releases": []
+}

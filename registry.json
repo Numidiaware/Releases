@@ -1,0 +1,17 @@
+{
+  "updated_at": "",
+  "apps": [
+    {
+      "id": "pc-control-suite",
+      "name": "PC Control Suite",
+      "releases_url": "https://raw.githubusercontent.com/Numidiaware/releases/main/apps/pc-control-suite/releases.json",
+      "download_url": ""
+    },
+    {
+      "id": "folder-comments",
+      "name": "Folder Comments",
+      "releases_url": "https://raw.githubusercontent.com/Numidiaware/releases/main/apps/folder-comments/releases.json",
+      "download_url": ""
+    }
+  ]
+}
