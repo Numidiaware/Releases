@@ -5,17 +5,6 @@
   "platform": "windows",
   "arch": "x64",
   "icon": "https://github.com/Numidiaware/Releases/blob/main/apps/folder-comments/icon.svg",
-  "latest_version": "v1.0.0",
-  "releases": [
-    {
-      "version": "v1.0.0",
-      "release_name": "Performance Update",
-      "published_at": "2024-05-15T10:30:00Z",
-      "release_notes": "- Improved CPU monitoring\n- Fixed tray icon bug",
-      "download_url": "https://github.com/Numidiaware/Releases/releases/download/v1.0.0/PC-ControlSuite_v1.0.0.exe",
-      "sha256": "7c22763704cd84dbbe0e4b87b289cde43c8832c60c011d5c3594f365a4e25bc7",
-      "file_size_bytes": 14200832,
-      "is_prerelease": false
-    }
-  ]
+  "latest_version": "",
+  "releases": []
 }
