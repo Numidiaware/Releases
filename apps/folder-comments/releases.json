@@ -9,7 +9,7 @@
   "releases": [
     {
       "version": "v9.9.9-test",
-      "release_name": "vv9.9.9-test2",
+      "release_name": "v9.9.9-test2",
       "published_at": "2026-05-18T16:54:58Z",
       "release_notes": "**Full Changelog**: https://github.com/Numidiaware/Folder-Comments/compare/v1.0.0...v9.9.9-test",
       "download_url": "https://github.com/Numidiaware/Releases/releases/download/v9.9.9-test/FolderCommentsSetup_v9.9.9-test.exe",
