@@ -5,7 +5,7 @@
   "platform": "windows",
   "arch": "x64",
   "icon": "https://github.com/Numidiaware/Releases/blob/main/apps/folder-comments/icon.svg",
-  "latest_version": "v1.0.3",
+  "latest_version": "v9.9.9-test",
   "releases": [
     {
       "version": "v9.9.9-test",
