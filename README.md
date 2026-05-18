@@ -24,6 +24,7 @@ This repository is **100% automated** by GitHub Actions. **Do not manually edit 
 ```text
 Numidiaware/releases/
 ├── registry.json                        # Master index of all available apps
+├── README.md                            # Readme file
 └── apps/
     ├── pc-control-suite/
     │   ├── icon.svg                     # App logo

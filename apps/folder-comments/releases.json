@@ -4,7 +4,7 @@
   "description": "Add and manage comments on Windows folders.",
   "platform": "windows",
   "arch": "x64",
-  "icon": "https://raw.githubusercontent.com/Numidiaware/releases/main/apps/folder-comments/icon.png",
+  "icon": "https://github.com/Numidiaware/Releases/blob/main/apps/folder-comments/icon.svg",
   "latest_version": "",
   "releases": []
 }
