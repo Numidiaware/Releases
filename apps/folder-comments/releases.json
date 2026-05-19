@@ -16,16 +16,6 @@
       "sha256": "30a0c64e3f28d9305742a997f66a1a11b71d566b0ff9f6f63af9b1081ba0dda0",
       "file_size_bytes": 50688,
       "is_prerelease": false
-    },
-    {
-      "version": "v1.0.0",
-      "release_name": "v1.0.0 - Initial Release",
-      "published_at": "2026-05-18T23:59:41Z",
-      "release_notes": "# \ud83c\udf89 Release v1.0.0 (Initial Release)  We are excited to announce the first official release of the **Folder Comments Shell Extension**!   This tool integrates seamlessly into Windows Explorer, allowing you to easily view, add, and edit custom folder comments directly from the native Windows **Folder Properties** dialog.   ### \u2728 Key Features * **Native Explorer Integration:** Adds a dedicated Comments tab to the properties dialog of any directory. * **Windows InfoTip Support:** Comments are saved safely using native Windows APIs (). Your text will appear as a tooltip when you hover over the folder in Explorer. * **Massive Multilingual Support:** UI translated and ready for over 40+ global languages, including automatic Right-to-Left (RTL) layout switching. *(See full list below).* * **Built-in Auto-Updater:** Automatically checks GitHub for new versions in the background. Features a non-intrusive UI to Update Now, Remind Me Later, or Ignore a specific version. * **Clickable About Section:",
-      "download_url": "https://github.com/Numidiaware/Releases/releases/download/v1.0.0/Test_FolderCommentsSetup_1.0.0.exe",
-      "sha256": "30a0c64e3f28d9305742a997f66a1a11b71d566b0ff9f6f63af9b1081ba0dda0",
-      "file_size_bytes": 50688,
-      "is_prerelease": false
     }
   ]
 }
