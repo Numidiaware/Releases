@@ -5,8 +5,18 @@
   "platform": "windows",
   "arch": "x64",
   "icon": "icon.svg",
-  "latest_version": "v9.9.9-test",
+  "latest_version": "v1.0.0",
   "releases": [
+    {
+      "version": "v1.0.0",
+      "release_name": "v1.0.0",
+      "published_at": "2026-05-19T01:07:00Z",
+      "release_notes": "**Full Changelog**: https://github.com/Numidiaware/Folder-Comments/commits/v1.0.0",
+      "download_url": "https://github.com/Numidiaware/Releases/releases/download/v1.0.0/Test_FolderCommentsSetup_1.0.0.exe",
+      "sha256": "30a0c64e3f28d9305742a997f66a1a11b71d566b0ff9f6f63af9b1081ba0dda0",
+      "file_size_bytes": 50688,
+      "is_prerelease": false
+    },
     {
       "version": "v9.9.9-test",
       "release_name": "v1.0.0",
